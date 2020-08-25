@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Aug 2020 12:15:05 at http://localhost/abramba2 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/abramba2 -O1 "C:\My Web Sites\Abramba2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:19:39	Error: 	"Not Found" (404) at link localhost/abramba2/wp-content/uploads/img/bg.jpg (from localhost/abramba2/wp-content/uploads/essential-addons-elementor/cb70d11b8.min.css?ver=1598346906)
+12:19:48	Warning: 	Moved Permanently for localhost/abramba2/?p=31
+12:19:48	Warning: 	File has moved from localhost/abramba2/?p=31 to http://localhost/abramba2/about/
+12:19:49	Warning: 	Moved Permanently for localhost/abramba2/?p=32
+12:19:49	Warning: 	File has moved from localhost/abramba2/?p=32 to http://localhost/abramba2/services/
+12:19:49	Error: 	"Not Found" (404) at link localhost/abramba2/wp-content/uploads/2020/04/green-leafed-trees-during-fog-time-167684.jpg (from localhost/abramba2/services/)
+12:19:49	Error: 	"Not Found" (404) at link localhost/abramba2/wp-content/uploads/2020/04/snowy-mountain-1287145.jpg (from localhost/abramba2/services/)
+12:19:49	Warning: 	Moved Permanently for localhost/abramba2/?p=33
+12:19:49	Warning: 	File has moved from localhost/abramba2/?p=33 to http://localhost/abramba2/contact/
+12:19:49	Warning: 	Moved Permanently for localhost/abramba2/?p=317
+12:19:49	Warning: 	File has moved from localhost/abramba2/?p=317 to http://localhost/abramba2/blog/
+12:20:45	Error: 	"Not Found" (404) at link localhost/abramba2/wp-content/uploads/2020/04/landscape-mountains-sky-4843193.jpg (from localhost/abramba2/wp-content/uploads/elementor/css/post-31.css?ver=1598335114)
+12:20:45	Warning: 	Moved Permanently for localhost/abramba2/?p=332
+12:20:45	Warning: 	File has moved from localhost/abramba2/?p=332 to http://localhost/abramba2/2020/08/25/new-blog-post/
+12:20:45	Error: 	"Method Not Allowed" (405) at link localhost/abramba2/xmlrpc.php (from localhost/abramba2/2020/08/25/new-blog-post/)
+12:20:53	Warning: 	Moved Permanently for localhost/abramba2/?p=323
+12:20:53	Warning: 	File has moved from localhost/abramba2/?p=323 to http://localhost/abramba2/2020/08/25/international-evaluation-panel-selected-winning-project-for-commercial-and-technical-support-from-global-solar-company/
+12:20:57	Warning: 	Moved Permanently for localhost/abramba2/?p=1
+12:20:57	Warning: 	File has moved from localhost/abramba2/?p=1 to http://localhost/abramba2/2020/08/20/hello-world/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 53 seconds : 185 links scanned, 172 files written (11102374 bytes overall) [11336874 bytes received at 32115 bytes/sec], 2.3 requests per connection
+(5 errors, 14 warnings, 0 messages)
